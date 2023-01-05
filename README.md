@@ -54,3 +54,6 @@ Shipping Mode|: The following shipping modes are presented: Standard Class, Firs
 
 ## Entity Relationship Diagram
 ![alt text](https://github.com/KopiteArnab/Sales_Analysis/blob/c389c1ce09a6fe78b2841fca5d80970f76f06fd5/ERD_PBI.png)
+
+## Report
+![alt text](https://github.com/KopiteArnab/Sales_Analysis/blob/c389c1ce09a6fe78b2841fca5d80970f76f06fd5/ERD_PBI.png)
