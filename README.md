@@ -9,5 +9,6 @@ Dataset is about a company's sales made from multiple departmental stores across
 
 Please read the below table under the required columns.
 
-|COLUMN||DESCRIPTION|
+|COLUMN||DESCRIPTION                |
+|------||---------------------------|
 |Type  || : Type of transaction made|
