@@ -56,4 +56,4 @@ Shipping Mode|: The following shipping modes are presented: Standard Class, Firs
 ![alt text](https://github.com/KopiteArnab/Sales_Analysis/blob/c389c1ce09a6fe78b2841fca5d80970f76f06fd5/ERD_PBI.png)
 
 ## Report
-![alt text](https://github.com/KopiteArnab/Sales_Analysis/blob/c389c1ce09a6fe78b2841fca5d80970f76f06fd5/ERD_PBI.png)
+![alt text](https://github.com/KopiteArnab/Sales_Analysis/blob/e8073c3368003773e1c5d481e2a12f792a7b93ea/Sales_Analysis.pdf)
