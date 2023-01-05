@@ -12,3 +12,5 @@ Please read the below table under the required columns.
 COLUMN|DESCRIPTION                |
 ------|---------------------------|
 Type  | : Type of transaction made|
+Days for shipping (real) |: Actual shipping days of the purchased product|
+Days for shipment (scheduled)|: Days of scheduled delivery of the purchased product|
