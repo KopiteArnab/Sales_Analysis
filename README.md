@@ -50,3 +50,7 @@ Product Price|: Product Price|
 Product Status|: Status of the product stock: If it is 1 not available, 0 the product is available|
 Shipping date (DateOrders)|: Exact date and time of shipment|
 Shipping Mode|: The following shipping modes are presented: Standard Class, First Class, Second Class, Same Day|
+
+
+## Entity Relationship Diagram
+![alt text]()
