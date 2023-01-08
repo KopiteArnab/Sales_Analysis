@@ -1,8 +1,8 @@
 # Sales_Analysis
-To find our Delivery performance and department level analysis on sales and profits in Power BI.
+To find out Delivery performance and department level analysis on sales and profits in Power BI.
 
 ## Introduction
-To analyze and find the regions and product categories for improvement in business, also locate the best performing products and our top customers on the way. To find our Delivery performance and department level analysis on sales and profits.
+To analyze and find the regions and product categories for improvement in business, also locate the best performing products and our top customers on the way. To find out Delivery performance and department level analysis on sales and profits.
 
 ## Datasets used
 [Company Supply Chain Dataset.zip](https://github.com/KopiteArnab/Sales_Analysis/blob/aa2622cd0bbd44daad1651682af12c9b7670ba01/Company%20Supply%20Chain%20Dataset.zip) is about a company's sales made from multiple departmental stores across the world, with details of the sale, discount, profit, product, customer, store, and location data.
